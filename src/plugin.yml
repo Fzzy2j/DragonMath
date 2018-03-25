@@ -1,0 +1,11 @@
+name: DragonMath
+version: 1.0
+description: Rogue like
+author: Fzzy
+
+depend: [WorldEdit]
+
+main: me.fzzy.dragonmath.DragonMath
+commands:
+  dungeon:
+  equip:
